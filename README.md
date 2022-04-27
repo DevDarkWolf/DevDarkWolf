@@ -9,7 +9,7 @@ Desktop and Web developer
 * 🧠  I'm learning React
 
 <a href="https://www.github.com/DevDarkWolf" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DevDarkWolf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/DevDarkWolf?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
 
 ### Skills
 
@@ -41,8 +41,8 @@ src="https://img.shields.io/github/followers/DevDarkWolf?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DevDarkWolf"><img src="https://github-readme-stats.vercel.app/api?username=DevDarkWolf&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DevDarkWolf's GitHub stats" /></a>
+<a href="http://www.github.com/DevDarkWolf"><img src="https://github-readme-stats.vercel.app/api?username=DevDarkWolf&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=64748b&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="DevDarkWolf's GitHub stats" /></a>
 
-<a href="http://www.github.com/DevDarkWolf"><img src="https://activity-graph.herokuapp.com/graph?username=DevDarkWolf&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/DevDarkWolf"><img src="https://activity-graph.herokuapp.com/graph?username=DevDarkWolf&bg_color=171717&color=64748b&line=14b8a6&point=64748b&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/DevDarkWolf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDarkWolf&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/DevDarkWolf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDarkWolf&langs_count=10&title_color=10b981&text_color=64748b&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
