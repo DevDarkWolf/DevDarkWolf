@@ -9,7 +9,7 @@ Systems engineer
 *   🤝  I'm open to collaborating on Web and Mobile Projects
 
 <a href="https://www.github.com/DevDarkWolf" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/DevDarkWolf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/DevDarkWolf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
 ### Skills 
