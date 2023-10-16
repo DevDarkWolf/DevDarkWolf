@@ -31,6 +31,7 @@ src="https://img.shields.io/github/followers/DevDarkWolf?logo=github&style=for-t
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DevDarkWolf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cristhofer-salazar-b541b4239/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18968503/darkwolf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -38,5 +39,3 @@ src="https://img.shields.io/github/followers/DevDarkWolf?logo=github&style=for-t
 <a href="http://www.github.com/DevDarkWolf"><img src="https://github-readme-stats.vercel.app/api?username=DevDarkWolf&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="DevDarkWolf's GitHub stats" /></a>
 
 <a href="http://www.github.com/DevDarkWolf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevDarkWolf&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/DevDarkWolf"><img src="https://activity-graph.herokuapp.com/graph?username=DevDarkWolf&bg_color=000000&color=ffffff&line=14b8a6&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
